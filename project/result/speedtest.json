@@ -1,0 +1,25 @@
+{
+  "type": "speed_test",
+  "name": "pi17",
+  "AP": "",
+  "data": [
+    {
+      "interface": "eth0",
+      "Upload": "2641866",
+      "Download": "2641437",
+      "Packetloss": "0"
+    },
+    {
+      "interface": "5GHz",
+      "Upload": "",
+      "Download": "",
+      "Packetloss": ""
+    },
+    {
+      "interface": "2.4GHz",
+      "Upload": "",
+      "Download": "",
+      "Packetloss": ""
+    }
+  ]
+}

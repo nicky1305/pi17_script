@@ -1,0 +1,8 @@
+{
+  "type": "iptv",
+  "name": "pi17",
+  "URL": "udp://@225.1.1.190:30120",
+  "detailPacketsPass": [
+    {"message": "No packets are dropped during the stream" }
+  ]
+}

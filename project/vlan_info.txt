@@ -1,0 +1,23 @@
+VLAN Information:
+=================
+
+VLAN 1:
+IP Address: 192.168.1.22
+MAC Address: dc:a6:32:f9:d8:92
+
+VLAN 10:
+IP Address: 
+MAC Address: dc:a6:32:f9:d8:92
+
+VLAN 20:
+IP Address: 192.168.1.21
+MAC Address: dc:a6:32:f9:d8:92
+
+VLAN 30:
+IP Address: 
+MAC Address: dc:a6:32:f9:d8:92
+
+VLAN 40:
+IP Address: 192.168.100.109
+MAC Address: dc:a6:32:f9:d8:92
+

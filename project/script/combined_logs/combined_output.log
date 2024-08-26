@@ -1,0 +1,35 @@
+No screen session found.
+No screen session found.
+Incoming ping DNS_FPT completed
+Failed to ping 24h.com.vn
+Incoming ping 24H completed
+Incoming ping DNS_GOOGLE completed
+Incoming ping GATEWAY completed
+No screen session found.
+No screen session found.
+Incoming ping DNS_FPT completed
+Failed to ping 24h.com.vn
+Incoming ping 24H completed
+Incoming ping DNS_GOOGLE completed
+Incoming ping GATEWAY completed
+No screen session found.
+No screen session found.
+Incoming ping DNS_FPT completed
+Failed to ping 24h.com.vn
+Incoming ping 24H completed
+Incoming ping DNS_GOOGLE completed
+Incoming ping GATEWAY completed
+No screen session found.
+No screen session found.
+Incoming ping DNS_FPT completed
+Failed to ping 24h.com.vn
+Incoming ping 24H completed
+Incoming ping DNS_GOOGLE completed
+Incoming ping GATEWAY completed
+No screen session found.
+No screen session found.
+{"type":"ping_domain","name":"pi17","data":[{"domain":"210.245.1.253","min":"1.824","avg":"2.043","max":"2.287","mdev":"0.162","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"24h.com.vn","min":"0","avg":"0","max":"0","mdev":"0","packet_loss":"1.0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"8.8.8.8","min":"25.830","avg":"25.985","max":"26.119","mdev":"0.116","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"192.168.100.1","min":"0.517","avg":"0.604","max":"0.741","mdev":"0.078","packet_loss":"0","mac_address":"00:c8:96:7c:7c:78","status":"fail"},{"domain":"210.245.1.253","min":"1.792","avg":"1.988","max":"2.213","mdev":"0.140","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"24h.com.vn","min":"0","avg":"0","max":"0","mdev":"0","packet_loss":"1.0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"8.8.8.8","min":"25.726","avg":"25.999","max":"26.114","mdev":"0.140","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"192.168.100.1","min":"0.487","avg":"0.589","max":"0.743","mdev":"0.083","packet_loss":"0","mac_address":"00:c8:96:7c:7c:78","status":"fail"},{"domain":"210.245.1.253","min":"1.944","avg":"2.085","max":"2.430","mdev":"0.178","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"24h.com.vn","min":"0","avg":"0","max":"0","mdev":"0","packet_loss":"1.0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"8.8.8.8","min":"25.815","avg":"30.463","max":"48.013","mdev":"8.777","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"192.168.100.1","min":"0.512","avg":"0.581","max":"0.758","mdev":"0.091","packet_loss":"0","mac_address":"00:c8:96:7c:7c:78","status":"fail"},{"domain":"210.245.1.253","min":"1.871","avg":"1.988","max":"2.083","mdev":"0.086","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"24h.com.vn","min":"0","avg":"0","max":"0","mdev":"0","packet_loss":"1.0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"8.8.8.8","min":"25.890","avg":"26.092","max":"26.236","mdev":"0.117","packet_loss":"0","mac_address":"00:00:00:00:00:00","status":"fail"},{"domain":"192.168.100.1","min":"0.478","avg":"0.544","max":"0.651","mdev":"0.062","packet_loss":"0","mac_address":"00:c8:96:7c:7c:78","status":"fail"}]}
+Failed to send data to Logstash, HTTP response code: 000
+No screen session found.
+,
+,
